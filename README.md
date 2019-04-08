@@ -1,4 +1,4 @@
-# Town
+# Town (DEPRECATED)
 
 Town help you run multi-container application in Docker. Defining a single cluster configuration file.
 It is simple, just like Docker Compose tool. However, it has several advantages:
